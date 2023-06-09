@@ -1,0 +1,24 @@
+{
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "*.cgml": "html",
+    "main.h": "c",
+    "gx_mangle.h": "c",
+    "gx_nextion_touch.h": "c",
+    "gx_components.h": "c",
+    "gx_common.h": "c",
+    "gx_nextion_object.h": "c",
+    "string.h": "c",
+    "stdlib.h": "c",
+    "gx_nextion.h": "c",
+    "stdint.h": "c",
+    "stdint-gcc.h": "c"
+  },
+  "C_Cpp.dimInactiveRegions": false,
+  "licenser.projectName": "Gx Nextion Library",
+  "licenser.useSPDXLicenseFormat": false,
+  "licenser.license": "MIT",
+  "licenser.author": "I Gede Yogi Astawan",
+  "licenser.useSingleLineStyle": false
+}
